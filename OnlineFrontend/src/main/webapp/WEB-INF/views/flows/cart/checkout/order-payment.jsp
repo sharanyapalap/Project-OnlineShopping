@@ -59,7 +59,7 @@
 	                        <div class="col-xs-5 col-md-5 pull-right">
 	                            <div class="form-group">
 	                                <label for="cvCode">
-	                                    CV CODE</label>
+	                                    CVV CODE</label>
 	                                <input type="password" class="form-control" id="cvCode" placeholder="CV" required />
 	                            </div>
 	                        </div>
